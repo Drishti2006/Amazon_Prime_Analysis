@@ -32,4 +32,4 @@ This project analyzes the Amazon Prime Movies and TV Shows dataset to uncover in
 Amazon Prime focuses heavily on movies and shows strong growth in content production, with diverse genres targeting global audiences.
 
 ---
-⭐ If you found this project useful, give it a star!
+⭐ If you found this project useful, give it a star!  
